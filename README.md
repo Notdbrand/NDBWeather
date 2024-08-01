@@ -9,3 +9,7 @@ This was designed to redirect the normal Weather app requests to my server Notdb
 To use this for yourself all your need to do is swap out my server url and port and insert your own. Then all you need do to is make the package using theos.
 
 I am using YQL-X-Server to manage the Weather data.
+
+Known Issues (Will hopefully be fixed in the future):
+Weather widget doesn't work yet.
+The your location panel on the weather app doesn't work.
