@@ -10,6 +10,5 @@ To use this for yourself all your need to do is swap out my server url and port 
 
 I am using YQL-X-Server to manage the Weather data.
 
-Known Issues (Will hopefully be fixed in the future):
+Known Issue (Will be fixed in the future):
 Weather widget doesn't work yet.
-The your location panel on the weather app doesn't work.
